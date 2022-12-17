@@ -2,7 +2,7 @@
 
 # 
 # Recurse through specified folder to find all '.systemextension'
-# folder and check whether the system extension is enabled
+# folders and check whether the system extension is enabled via systemextensionctl
 # 
 # $1 - Folder to recurse through, default $PWD
 # 
